@@ -1,5 +1,5 @@
 # Hello !!! this is Sunrit.
 
-## [My Projects](https://github.com/sunritb?tab=repositories)
+## My Projects
 
 [All Projects](https://github.com/sunritb?tab=repositories)
