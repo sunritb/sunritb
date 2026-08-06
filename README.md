@@ -2,6 +2,12 @@
 
 # Hello !!! this is Sunrit.
 
+## Contributions
+
+<img src="https://ghchart.rshah.org/2196F3/sunritb" alt="Sunrit's GitHub contribution graph">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunritb" alt="GitHub streak stats">
+
 ## My Projects
 
 [All Projects](https://github.com/sunritb?tab=repositories)
