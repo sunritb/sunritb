@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/sunritb/sunritb/main/avatar.jpg" width="185" style="border-radius:50%" alt="Sunrit Biswas"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sunritb/sunritb/main/avatar.png" width="185" style="border-radius:50%" alt="Sunrit Biswas"></p>
 
 <h1 align="center">Hello !!! this is Sunrit.</h1>
 
