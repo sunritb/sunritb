@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <title>Sunrit Biswas — animated puzzle avatar</title>
+  <defs>
+    <clipPath id="circle"><circle cx="200" cy="200" r="186"/></clipPath>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF9933" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#FF9933" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .piece {
+        transform-box: fill-box;
+        transform-origin: center;
+        animation: assemble 4s ease-in-out infinite;
+      }
+      .a { animation-delay: 0s;   --sx: -34px; --sy: -34px; --r: -20deg; }
+      .b { animation-delay: .5s;  --sx:  34px; --sy: -34px; --r:  20deg; }
+      .c { animation-delay: 1s;   --sx: -34px; --sy:  34px; --r:  20deg; }
+      .d { animation-delay: 1.5s; --sx:  34px; --sy:  34px; --r: -20deg; }
+      @keyframes assemble {
+        0%   { transform: translate(var(--sx), var(--sy)) rotate(var(--r)) scale(.35); opacity: 0; }
+        22%  { opacity: 1; }
+        52%  { transform: translate(0,0) rotate(0deg) scale(1); opacity: 1; }
+        86%  { transform: translate(0,0) rotate(0deg) scale(1); opacity: 1; }
+        100% { transform: translate(var(--sx), var(--sy)) rotate(var(--r)) scale(.35); opacity: 0; }
+      }
+      .ring {
+        transform-box: fill-box;
+        transform-origin: center;
+        animation: spin 14s linear infinite;
+      }
+      @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+      .pulse {
+        transform-box: fill-box;
+        transform-origin: center;
+        animation: pulse 2.4s ease-in-out infinite;
+      }
+      @keyframes pulse { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#circle)">
+    <circle cx="200" cy="200" r="186" fill="#0b1f3a"/>
+    <circle class="pulse" cx="200" cy="200" r="186" fill="url(#glow)"/>
+
+    <!-- Piece A — top-left, saffron -->
+    <path class="piece a" fill="#FF9933" stroke="#ffffff" stroke-width="2"
+      d="M14,14 H200 V104 A20,20 0 0 1 200,124 V200 H124 A20,20 0 0 1 104,200 H14 Z"/>
+
+    <!-- Piece B — top-right, white -->
+    <path class="piece b" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"
+      d="M386,14 H200 V104 A20,20 0 0 0 200,124 V200 H314 A20,20 0 0 1 294,200 H386 Z"/>
+
+    <!-- Piece C — bottom-left, green -->
+    <path class="piece c" fill="#138808" stroke="#ffffff" stroke-width="2"
+      d="M14,200 H124 A20,20 0 0 0 104,200 V386 H200 V314 A20,20 0 0 1 200,294 V200 Z"/>
+
+    <!-- Piece D — bottom-right, blue -->
+    <path class="piece d" fill="#0f3d91" stroke="#ffffff" stroke-width="2"
+      d="M386,200 V386 H200 V294 A20,20 0 0 0 200,314 V200 H294 A20,20 0 0 0 314,200 H386 Z"/>
+
+    <!-- Monogram -->
+    <text x="200" y="216" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+      font-size="128" font-weight="bold" fill="#ffffff" stroke="#0b1f3a" stroke-width="3" paint-order="stroke">SB</text>
+  </g>
+
+  <!-- rotating accent ring -->
+  <g class="ring">
+    <circle cx="200" cy="200" r="192" fill="none" stroke="#FF9933" stroke-width="3"
+      stroke-dasharray="10 14" stroke-linecap="round"/>
+  </g>
+</svg>
