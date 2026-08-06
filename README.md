@@ -3,14 +3,6 @@
 
 
 
-## 🚀 Featured Project: BharatGov AI
-
-**India's AI-powered government-services assistant** — Ask questions about Indian government schemes, documents and official procedures in plain language. Every answer is grounded in a local knowledge base of official sources with citations.
-
-[![BharatGov AI](https://github-readme-stats.vercel.app/api/pin/?username=sunritb&repo=bharatgov-ai&theme=dark)](https://github.com/sunritb/bharatgov-ai)
-
-▶ **[Live Demo](https://bharatgov-ai-phi.vercel.app)** · 📦 **[Repository](https://github.com/sunritb/bharatgov-ai)** · 🛠 **Next.js · FastAPI · Gemini/OpenAI · Docker**
-
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Sunrayy) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/TcU9R6S8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamsunrit_16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunrit-biswas-a56aa439a) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sunrit Biswas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunritbiswas9@gmail.com) 
 
