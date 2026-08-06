@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/sunritb/sunritb/main/puzzle.svg" width="190" alt="Sunrit Biswas animated puzzle avatar"></p>
+
 # Hello !!! this is Sunrit.
 
 ## My Projects
