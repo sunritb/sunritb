@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/sunritb/sunritb/main/puzzle.svg" width="185" alt="Sunrit Biswas animated puzzle avatar"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sunritb/sunritb/main/avatar_hacker.svg" width="185" alt="Sunrit Biswas animated hacker dot avatar"></p>
 
 <h1 align="center">Hello !!! this is Sunrit.</h1>
 
