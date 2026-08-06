@@ -2,6 +2,10 @@
 
 # Hello !!! this is Sunrit.
 
+## Activity Chart
+
+[![Sunrit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sunritb&theme=github)](https://github.com/sunritb)
+
 ## My Projects
 
 [All Projects](https://github.com/sunritb?tab=repositories)
