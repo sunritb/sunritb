@@ -6,6 +6,10 @@
 
 [All Projects](https://github.com/sunritb?tab=repositories)
 
+## Repository
+
+[All Repositories](https://github.com/sunritb?tab=repositories)
+
 ## Gists
 
 [All Gists](https://gist.github.com/sunritb)
