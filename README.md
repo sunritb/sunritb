@@ -11,6 +11,7 @@
 ---
 
 ## Projects
+- **SmartCity AI** — AI-powered civic complaint management platform: report, track and resolve city issues with AI classification, multi-language assistant and live city maps. [Repository](https://github.com/sunritb/smartcity-ai) · FastAPI + Next.js
 
 - **BharatGov AI** — AI assistant for Indian government services. Answers about schemes, documents and procedures with citations from official sources. [Repository](https://github.com/sunritb/bharatgov-ai) · [Live demo](https://bharatgov-ai-phi.vercel.app) · Next.js + FastAPI + Gemini/OpenAI
 - **Nyaya AI** — AI legal assistant that explains any Indian legal document in English, Hindi and Bengali. Covers 13 Indian laws. [Repository](https://github.com/sunritb/ai-legal-assistant) · Next.js + Framer Motion
