@@ -19,7 +19,6 @@
 ## Quick Links
 
 - **My Projects** — [All Projects](https://github.com/sunritb?tab=repositories)
-- **Repository** — [All Repositories](https://github.com/sunritb?tab=repositories)
 - **Releases** — [All Releases](https://github.com/sunritb/bharatgov-ai/releases)
 - **Packages** — [All Packages](https://github.com/sunritb?tab=packages)
 - **Gists** — [All Gists](https://gist.github.com/sunritb)
