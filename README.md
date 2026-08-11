@@ -16,6 +16,8 @@
 - **BharatGov AI** — AI assistant for Indian government services. Answers about schemes, documents and procedures with citations from official sources. [Repository](https://github.com/sunritb/bharatgov-ai) · [Live demo](https://bharatgov-ai-phi.vercel.app) · Next.js + FastAPI + Gemini/OpenAI
 - **Nyaya AI** — AI legal assistant that explains any Indian legal document in English, Hindi and Bengali. Covers 13 Indian laws. [Repository](https://github.com/sunritb/ai-legal-assistant) · Next.js + Framer Motion
 - **ThirdJune Workspace** — One AI workspace for every document: AI writing, PDFs, spreadsheets, presentations and media conversion. [Repository](https://github.com/sunritb/One-Al-workspace-for-every-document.)
+- **AetherTrace** — Premium, physically-based path tracer in Rust: NEE + MIS, binned-SAH BVH, GGX PBR, dielectrics, procedural HDR sky, and progressive multi-threaded rendering. [Repository](https://github.com/sunritb/AetherTrace) · Rust
+- **NimbusBT** — Modern, secure, open-source BitTorrent client (Node.js + WebTorrent) with a web UI, CLI, SOCKS proxy, and blocklist. [Repository](https://github.com/sunritb/nimbusbt) · [Live demo](https://sunritb.github.io/nimbusbt) · Node.js
 
 ## Quick Links
 
