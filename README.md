@@ -10,14 +10,23 @@
 
 ---
 
-## Projects
-- **SmartCity AI** — AI-powered civic complaint management platform: report, track and resolve city issues with AI classification, multi-language assistant and live city maps. [Repository](https://github.com/sunritb/smartcity-ai) · FastAPI + Next.js
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Developer-FF6B6B?style=for-the-badge" alt="AI Developer">
+  <img src="https://img.shields.io/badge/Full%20Stack-4A90E2?style=for-the-badge" alt="Full Stack">
+  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-2ECC71?style=for-the-badge" alt="Open Source">
+  <img src="https://img.shields.io/badge/Building%20Impact-9B59B6?style=for-the-badge" alt="Building Impact">
+</p>
 
-- **BharatGov AI** — AI assistant for Indian government services. Answers about schemes, documents and procedures with citations from official sources. [Repository](https://github.com/sunritb/bharatgov-ai) · [Live demo](https://bharatgov-ai-phi.vercel.app) · Next.js + FastAPI + Gemini/OpenAI
-- **Nyaya AI** — AI legal assistant that explains any Indian legal document in English, Hindi and Bengali. Covers 13 Indian laws. [Repository](https://github.com/sunritb/ai-legal-assistant) · Next.js + Framer Motion
-- **ThirdJune Workspace** — One AI workspace for every document: AI writing, PDFs, spreadsheets, presentations and media conversion. [Repository](https://github.com/sunritb/One-Al-workspace-for-every-document.)
-- **AetherTrace** — Premium, physically-based path tracer in Rust: NEE + MIS, binned-SAH BVH, GGX PBR, dielectrics, procedural HDR sky, and progressive multi-threaded rendering. [Repository](https://github.com/sunritb/AetherTrace) · Rust
-- **NimbusBT** — Modern, secure, open-source BitTorrent client (Node.js + WebTorrent) with a web UI, CLI, SOCKS proxy, and blocklist. [Repository](https://github.com/sunritb/nimbusbt) · [Live demo](https://sunritb.github.io/nimbusbt) · Node.js
+---
+
+## Projects
+- **SmartCity AI** — AI-powered civic complaint management platform: report, track and resolve city issues with AI classification, multi-language assistant and live city maps. [Repository](https://github.com/sunritb/smartcity-ai)
+
+- **BharatGov AI** — AI assistant for Indian government services. Answers about schemes, documents and procedures with citations from official sources. [Repository](https://github.com/sunritb/bharatgov-ai)
+- **Nyaya AI** — AI legal assistant that explains any Indian legal document in English, Hindi and Bengali. Covers 13 Indian laws. [Repository](https://github.com/sunritb/ai-legal-assistant)
+- **ThirdJune Workspace** — One AI workspace for every document: AI writing, PDFs, spreadsheets, presentations and media conversion. [Repository](https://github.com/sunritb/One-Al-workspace-for-documents)
+- **AetherTrace** — Premium, physically-based path tracer in Rust: NEE + MIS, binned-SAH BVH, GGX PBR, dielectrics, procedural HDR sky, and progressive multi-threaded rendering. [Repository](https://github.com/sunritb/aethertrace)
+- **NimbusBT** — Modern, secure, open-source BitTorrent client (Node.js + WebTorrent) with a web UI, CLI, SOCKS proxy, and blocklist. [Repository](https://github.com/sunritb/nimbusbt)
 
 ## Quick Links
 
