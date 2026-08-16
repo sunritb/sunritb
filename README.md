@@ -9,6 +9,8 @@
 </p>
 
 ## Projects
+- **June Gun Game** — Browser-based FPS prototype built in JavaScript + Three.js: realistic ballistics with gravity drop and penetration, recoil & bloom, layered procedural audio, wave combat with procedurally-animated Indian-style NPCs (kurtas, lungis, turbans), a festival arena with bunting & rangoli, and visible FPS hands with footsteps. [Play](https://sunritb.github.io/june-gun-game/) · [Repository](https://github.com/sunritb/june-gun-game) · [Release](https://github.com/sunritb/june-gun-game/releases) · [Package](https://github.com/sunritb/june-gun-game/packages)
+
 - **JUnE OS** — AI-integrated open-source operating system written in Rust. Boots to a graphical Ubuntu-style desktop with a window manager, 5 built-in apps (Terminal, Files, Settings, JUnE AI, System Monitor), ring-3 user mode, and a persistent on-disk database. [Repository](https://github.com/sunritb/juneos-os) · [Release](https://github.com/sunritb/juneos-os/releases) · [Package](https://github.com/sunritb/juneos-os/pkgs/container/juneos-os)
 
 - **SmartCity AI** — AI-powered civic complaint management platform: report, track and resolve city issues with AI classification, multi-language assistant and live city maps. [Repository](https://github.com/sunritb/smartcity-ai)
