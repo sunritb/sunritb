@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sunritb/sunritb/main/avatar.png" width="160" alt="Sunrit Biswas">
-</p>
-
 <h1 align="center">Sunrit Biswas</h1>
 <h3 align="center">Systems & AI builder · India-first products · Open source</h3>
 
@@ -28,16 +24,21 @@
 
 I build **AI-native systems and products for India** — from a Rust microkernel OS to GovTech, legal tech, and civic platforms. Founder at **THIRDJUNE**. Open to collaborations, hackathons, and startup ideas.
 
-### GitHub
+### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sunritb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunritb&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunritb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunritb&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunritb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=sunritb" alt="Top languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=sunritb&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+**Top languages:** Rust · TypeScript · JavaScript · Python
 
 ---
 
