@@ -20,6 +20,7 @@
 - **ThirdJune Workspace** — One AI workspace for every document: AI writing, PDFs, spreadsheets, presentations and media conversion. [Repository](https://github.com/sunritb/One-Al-workspace-for-everything)
 - **AetherTrace** — Premium, physically-based path tracer in Rust: NEE + MIS, binned-SAH BVH, GGX PBR, dielectrics, procedural HDR sky, and progressive multi-threaded rendering. [Repository](https://github.com/sunritb/aethertrace)
 - **NimbusBT** — Modern, secure, open-source BitTorrent client (Node.js + WebTorrent) with a web UI, CLI, SOCKS proxy, and blocklist. [Repository](https://github.com/sunritb/nimbusbt)
+- **ThirdJune** — Sovereign, zero-trust AI agent platform with 8 AI agents, AES-256-GCM encryption, streaming chat, code execution sandbox, and 3D animated premium UI. [Repository](https://github.com/sunritb/thirdjune-ai)
 
 ## Quick Links
 
