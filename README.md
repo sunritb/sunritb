@@ -23,18 +23,13 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunritb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunritb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sunritb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=sunritb" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunritb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=sunritb" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=sunritb&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=sunritb&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-**Top languages:** Rust · TypeScript · JavaScript · Python
 
 ---
 
