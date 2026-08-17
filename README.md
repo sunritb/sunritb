@@ -20,10 +20,6 @@
 
 ---
 
-### About
-
-I build **AI-native systems and products for India** — from a Rust microkernel OS to GovTech, legal tech, and civic platforms. Founder at **THIRDJUNE**. Open to collaborations, hackathons, and startup ideas.
-
 ### GitHub Stats
 
 <p align="center">
