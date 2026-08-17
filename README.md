@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile-photo.png" alt="Sunrit Biswas" width="200" style="border-radius: 50%;">
+</p>
+
 <h1 align="center">Sunrit Biswas</h1>
 <h3 align="center">Systems & AI builder · India-first products · Open source</h3>
 
